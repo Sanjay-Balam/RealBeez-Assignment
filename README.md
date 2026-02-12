@@ -1,4 +1,4 @@
-# RealBeez - Real Estate Job Board
+# Real Beez - Job Board Project
 
 A full-stack web application for posting and discovering real estate job opportunities. Built with Next.js, ElysiaJS, and MongoDB.
 
